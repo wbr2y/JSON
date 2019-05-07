@@ -1,0 +1,28 @@
+{ 
+	"profile":  {
+		"name": "Willian Barros",
+		"age": 25,
+		"birth": "1994-03-02",
+		"gender": "Male",
+		"homeTown": {
+			"city": "Juina",
+			"state": "Mato Grosso",
+			"country": "Brazil"
+		},
+		"skills": {
+			"html5": "advanced",
+			"css3": "intermediate",
+			"javascript": "intermediate",
+			"json": "intermediate",
+			"github": "intermediate",
+			"linux": "intermediate",
+			"english": "intermediate"
+		},
+		"others": {
+			"github": "https://github.com/wbr2y",
+			"stackOverFlow": "https://stackoverflow.com/cv/wbr2y",
+			"twitter": "https://twitter.com/wbr2y",
+			"email": "wbr2you@gmail.com"
+		}
+	}
+}
