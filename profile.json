@@ -10,13 +10,14 @@
 			"country": "Brazil"
 		},
 		"skills": {
+			"english": "intermediate",
+			"linux": "intermediate",
+			"github": "intermediate",
 			"html5": "advanced",
 			"css3": "intermediate",
 			"javascript": "intermediate",
 			"json": "intermediate",
-			"github": "intermediate",
-			"linux": "intermediate",
-			"english": "intermediate"
+			"ruby": "intermediate",
 		},
 		"others": {
 			"github": "https://github.com/wbr2y",
