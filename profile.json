@@ -15,9 +15,16 @@
 			"github": "intermediate",
 			"html5": "advanced",
 			"css3": "intermediate",
-			"javascript": "intermediate",
+			"javaScript": "intermediate",
 			"json": "intermediate",
 			"ruby": "intermediate",
+			"rubyOnRails": "intermediate",
+			"mysql": "intermediate",
+			"postgreSQL": "intermediate",
+			"mongodb": "intermediate",
+		},
+		"experience": {
+			"years": "two+"
 		},
 		"others": {
 			"github": "https://github.com/wbr2y",
