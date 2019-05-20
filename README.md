@@ -1,2 +1,4 @@
-# JSON - Accomplishment
--- Information associated with my professional profile
+# My professional data
+-- General knowledge
+
+*-* thx!
