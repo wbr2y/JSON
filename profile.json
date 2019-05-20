@@ -2,11 +2,8 @@
 	"profile":  {
 		"name": "Willian Barros",
 		"age": 25,
-		"birth": "1994-03-02",
 		"gender": "Male",
-		"homeTown": {
-			"city": "Juina",
-			"state": "Mato Grosso",
+		"from": {
 			"country": "Brazil"
 		},
 		"languages": {
