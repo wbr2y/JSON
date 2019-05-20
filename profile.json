@@ -9,21 +9,35 @@
 			"state": "Mato Grosso",
 			"country": "Brazil"
 		},
-		"skills": {
-			"english": "intermediate",
+		"languages": {
+			"portuguese": "fluently",
+			"spanish": "basic",
+			"english": "intermediate"
+		},
+		"commonExperiences": {
+			"windows": "intermediate",
 			"linux": "intermediate",
 			"github": "intermediate",
 			"html5": "advanced",
 			"css3": "intermediate",
 			"javaScript": "intermediate",
-			"json": "intermediate",
+			"json": "intermediate"
+		},
+		"frontEnd": {
+			"Angular": "starter",
+			"reactJS": "Junior",
+			"SASS": "Junior"
+		},
+		"backEnd":{
+			"npm": "Intermediate",
+			"nodeJS": "Intermediate",
 			"ruby": "intermediate",
 			"rubyOnRails": "intermediate",
 			"mysql": "intermediate",
 			"postgreSQL": "intermediate",
-			"mongodb": "intermediate",
+			"mongodb": "intermediate"
 		},
-		"experience": {
+		"experienceWithDevelopment": {
 			"years": "two+"
 		},
 		"others": {
